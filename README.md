@@ -82,8 +82,9 @@ model.compile(loss="categorical_crossentropy", optimizer=optimizers.Adam(lr=0.00
 
 => 최종적으로 가사 기반 추천시스템의 유사도와 오디오 기반 추천시스템의 유사도를 2:8로 결합한 추천시스템의 성능이 가장 높았다.
 
-**최종 추천시스템 추천 결과 예시**
+**최종 추천시스템 추천 결과 예시**  
 
+<img width="754" alt="스크린샷 2022-06-16 오후 8 20 05" src="https://user-images.githubusercontent.com/87518915/174059301-7053c1e6-74bf-4b1d-aba7-13eaa5e7791a.png">
 
 ---
 ## Conclusion
